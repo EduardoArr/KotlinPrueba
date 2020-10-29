@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinPrueba</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Tv">¿Que lenguaje de programacion has usado?</string>
+    <string name="Java">Java</string>
+    <string name="C">C</string>
+    <string name="Python">Python</string>
+    <string name="Kotlin">Kotlin</string>
+    <string name="boton">Pulsa Aqui</string>
+</resources>
